@@ -2,6 +2,13 @@
 
 ---
 
+## ☁️ Deploy
+
+O projeto está hospedado no Vercel e pode ser acessado via: 
+https://controle-de-usuarios.vercel.app/
+
+---
+
 ## 🚀 Sobre o Projeto
 
 Este é um aplicativo simples e funcional de monitoramento de idosos, construído com React e Vite.  
