@@ -1,12 +1,34 @@
-# React + Vite
+# 🧓👵 Controle de Usuários - Monitoramento de Idosos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é um aplicativo simples e funcional de monitoramento de idosos, construído com React e Vite.  
+Permite cadastrar idosos e seus responsáveis em um único formulário, facilitando a gestão dessas informações de maneira prática e intuitiva.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Funcionalidades
+
+- Cadastro completo de idosos (nome, CPF, data de nascimento)
+- Cadastro do responsável pelo idoso (nome, CPF, telefone e email)
+- Lista atualizável com todos os registros
+- Edição e exclusão de cadastros
+- Interface limpa e responsiva, com design simples e moderno
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- CSS customizado para um visual agradável e acessível
+
+---
+
+## 💻 Como Rodar o Projeto Localmente
+
+1. Clone o repositório  
+```bash
+git clone git@github.com:codecomnick/ControleDeUsuarios.git
